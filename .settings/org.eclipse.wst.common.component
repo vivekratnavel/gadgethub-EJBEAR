@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="GadgetHub-EJBEAR">
+        <wb-resource deploy-path="/" source-path="/" tag="defaultRootSource"/>
+        <dependent-module archiveName="GadgetHub-EJB.jar" deploy-path="/" handle="module:/resource/GadgetHub-EJB/GadgetHub-EJB">
+            <dependent-object>Module_1445468047594</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="GadgetHub-EJBClient.jar" deploy-path="/" handle="module:/resource/GadgetHub-EJBClient/GadgetHub-EJBClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
